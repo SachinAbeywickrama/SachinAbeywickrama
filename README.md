@@ -9,6 +9,9 @@
 </p>
 
 <p align="center">
+  <a href="https://portfolio-eta-liart-eeei2zz5dy.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Sachin's portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/sachin-abeywickrama/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Sachin on LinkedIn" />
   </a>
@@ -30,6 +33,7 @@ I'm Sachin Abeywickrama, an aspiring software engineer interested in web develop
 - 💼 Open to **junior and associate software engineering opportunities**.
 - 🤝 Interested in collaborating on **practical, creative software projects**.
 - 🎯 Focused on strengthening my **programming fundamentals and problem-solving skills**.
+- 🌐 Explore my work on **[my portfolio](https://portfolio-eta-liart-eeei2zz5dy.vercel.app/)**.
 - 📫 Reach me at **[sachinsuranjana@gmail.com](mailto:sachinsuranjana@gmail.com)**.
 
 ---
@@ -73,9 +77,10 @@ I'm Sachin Abeywickrama, an aspiring software engineer interested in web develop
 
 ## 📂 Explore My Work
 
-My repositories reflect my learning journey and development interests. Explore the code, share feedback, or get in touch to collaborate.
+My repositories reflect my learning journey and development interests. Explore my portfolio and code, share feedback, or get in touch to collaborate.
 
-**[Browse my repositories →](https://github.com/SachinAbeywickrama?tab=repositories)**
+- 🌐 **[Visit my portfolio →](https://portfolio-eta-liart-eeei2zz5dy.vercel.app/)**
+- 💻 **[Browse my repositories →](https://github.com/SachinAbeywickrama?tab=repositories)**
 
 ---
 
@@ -83,6 +88,7 @@ My repositories reflect my learning journey and development interests. Explore t
 
 I'm happy to connect about software engineering opportunities, project collaboration, and shared learning interests.
 
+- **Portfolio:** [Visit my website](https://portfolio-eta-liart-eeei2zz5dy.vercel.app/)
 - **LinkedIn:** [Sachin Abeywickrama](https://www.linkedin.com/in/sachin-abeywickrama/)
 - **Email:** [sachinsuranjana@gmail.com](mailto:sachinsuranjana@gmail.com)
 - **GitHub:** [@SachinAbeywickrama](https://github.com/SachinAbeywickrama)
