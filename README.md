@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sachin Abeywickrama</h1>
 
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinabeywickrama&label=Profile%20views&color=0e75b6&style=flat" alt="sachinabeywickrama" /> </p>
 
 - 🌱 I’m currently learning **Java, React.JS, and machine learning with Python.**
 
