@@ -1,31 +1,92 @@
 <h1 align="center">Hi 👋, I'm Sachin Abeywickrama</h1>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
-
-
-
-
-- 🌱 I’m currently learning **Java, React.JS, and machine learning with Python.**
-
-- 👯 I’m looking to collaborate on **interesting and innovative projects.**
-
-- 📫 How to reach me **sachinsuranjana@gmail.com**
-
-- ⚡ Fun fact **I think I am Funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sachin-abeywickrama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sachin-abeywickrama" height="30" width="40" /></a>
-<a href="https://fb.com/sachin abeywickrama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sachin abeywickrama" height="30" width="40" /></a>
-<a href="https://instagram.com/sachin abeywickrama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sachin abeywickrama" height="30" width="40" /></a>
+<p align="center">
+  <strong>Software Development · Web Applications · Machine Learning</strong>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="center">
+  Learning, building, and turning ideas into practical solutions.
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachinabeywickrama&show_icons=true&locale=en&layout=compact" alt="sachinabeywickrama" /></p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sachin-abeywickrama/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Sachin on LinkedIn" />
+  </a>
+  <a href="mailto:sachinsuranjana@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Sachin" />
+  </a>
+  <a href="https://github.com/SachinAbeywickrama?tab=repositories">
+    <img src="https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub repositories" />
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sachinabeywickrama&show_icons=true&locale=en" alt="sachinabeywickrama" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachinabeywickrama&" alt="sachinabeywickrama" /></p>
+## 👨‍💻 About Me
 
+I'm Sachin Abeywickrama, an aspiring software engineer interested in web development and machine learning. I enjoy learning new technologies, solving problems, and turning ideas into useful applications.
+
+- 🌱 Currently learning **Java, React, and machine learning with Python**.
+- 💼 Open to **junior and associate software engineering opportunities**.
+- 🤝 Interested in collaborating on **practical, creative software projects**.
+- 🎯 Focused on strengthening my **programming fundamentals and problem-solving skills**.
+- 📫 Reach me at **[sachinsuranjana@gmail.com](mailto:sachinsuranjana@gmail.com)**.
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Programming Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+</p>
+
+### Web Development
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+</p>
+
+### Database & Design
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-001E36?style=for-the-badge" alt="Adobe Photoshop" />
+</p>
+
+---
+
+## 📚 Current Learning Focus
+
+- **Java:** Object-oriented programming and application development.
+- **React:** Components, state management, and interactive user interfaces.
+- **Python & Machine Learning:** Exploring data and understanding machine learning fundamentals.
+- **Problem Solving:** Practising clear, structured approaches to programming challenges.
+
+---
+
+## 📂 Explore My Work
+
+My repositories reflect my learning journey and development interests. Explore the code, share feedback, or get in touch to collaborate.
+
+**[Browse my repositories →](https://github.com/SachinAbeywickrama?tab=repositories)**
+
+---
+
+## 🤝 Let's Connect
+
+I'm happy to connect about software engineering opportunities, project collaboration, and shared learning interests.
+
+- **LinkedIn:** [Sachin Abeywickrama](https://www.linkedin.com/in/sachin-abeywickrama/)
+- **Email:** [sachinsuranjana@gmail.com](mailto:sachinsuranjana@gmail.com)
+- **GitHub:** [@SachinAbeywickrama](https://github.com/SachinAbeywickrama)
+
+<p align="center">
+  <sub>Thanks for visiting my profile!</sub>
+</p>
